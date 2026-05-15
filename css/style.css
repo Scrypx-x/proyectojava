@@ -34,3 +34,9 @@ body {
     margin-bottom: 20px;
  }
  
+ .card-column {
+    background: var(--card-bg);
+    border: 1px solid var(--border);
+    padding: 20px;
+    min-height: 250px;
+ }
